@@ -21,7 +21,7 @@ This folder contains the practice files I wrote on my own to explore various C++
 Additionally, there is a `TW.h` file in this folder. This is a custom header file I created for my projects, containing functions that I frequently used while working on various projects.
 
 ### 2. **CodeWithHarry_PracticeSets**
-This folder includes files I practiced while following the CodeWithHarry C++ course. These practice sets correspond to videos 7 through 74 and cover topics introduced in the course. They reflect my efforts to reinforce concepts taught by CodeWithHarry.
+This folder includes files I practiced while following the CodeWithHarry C++ course. These practice sets correspond to videos 7 through 74 and cover topics introduced in the course. They reflect my efforts to reinforce concepts taught by CodeWithHarry. (Few files are missing).
 
 ## My Learning Journey with C++
 
